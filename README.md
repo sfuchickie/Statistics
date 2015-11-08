@@ -1,10 +1,10 @@
 # Statistics
 
-- [Assignment 6](##Assignment-6)
-- [Assignment 7](##Assignment 7)
-- [Assignment 8](##Assignment-8)
-- [Assignment 9](##Assignment-9)
-- [Assignment 10](##Assignment 10)
+- [Assignment 6](#Assignment-6)
+- [Assignment 7](#Assignment 7)
+- [Assignment 8](#Assignment-8)
+- [Assignment 9](#Assignment-9)
+- [Assignment 10](#Assignment 10)
 
 ## Assignment 6
 
