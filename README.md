@@ -103,13 +103,13 @@ load in urban birds: new ingredients for an old recipe?
 Biological Letters 9, 20120931.
 http://dx.doi.org/10.1098/rsbl.2012.0931
 
-..1.use R to read Excel spreadsheets directly;
-..2.use summary functions to examine standard deviations and balance in
+1. use R to read Excel spreadsheets directly;
+2. use summary functions to examine standard deviations and balance in
 ....experimental designs;
-..3.write a model for a two factor CRD ANOVA; notice that R gives you
+3. write a model for a two factor CRD ANOVA; notice that R gives you
 ...incremental rather than marginal sums of squares
-..4.write a model for a two factor CRD ANCOVA;
-..5.“reverse engineer” an analysis in a paper to try and figure out what was
+4. write a model for a two factor CRD ANCOVA;
+5.“reverse engineer” an analysis in a paper to try and figure out what was
 ....done.
-..6.use the t.test() function
-..7.how to specify subsets of observations in analyses using the subset= argument
+6. use the t.test() function
+7. how to specify subsets of observations in analyses using the subset= argument
